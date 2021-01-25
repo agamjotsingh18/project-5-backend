@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(166, 204, 206);
+}
+.navbar a {
+    float: left;
+    color: #28c56a;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 18px;
+
+  }
+
+.navbar {
+    background-color: #3b5b61;
+    overflow: hidden;
+
+}
+.introduction {
+    background-image: url("/images/markus-spiske-xekxE_VR0Ec-unsplash.jpg");
+    height: 200px;
+}
+.int {
+    color: rgb(0, 190, 190);
+    font-style: oblique;
+    font-size: xx-large;
+    text-shadow: black;
+    text-align: center;
+    top: 50%;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    text-transform: capitalize;
+}
+.table {
+    margin: auto;
+    border: 5px solid black;
+   
+}
+.video {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.img {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.justtext {
+    padding: 0px 30px;
+    
+}
+.container {
+    color: #3b5b61;
+}
+
+.footer{
+    display: block;
+    text-align: right;
+    max-width: 980px;
+    margin: 10px;
+
+}
